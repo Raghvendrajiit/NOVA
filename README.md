@@ -75,6 +75,6 @@ Like what you see? Star ⭐ the repo to show your support!
 ---
 
 <div align="center">
-  <p>Built with ❤️ by Your Name</p>
+  <p>Built with ❤️ by Raghvendra Shaktawat</p>
   <p>💡 NOVA - More than an assistant, your tech partner</p>
 </div>
